@@ -15,5 +15,5 @@
 
 ## Results files
 
-- `meta_df_balancedaccuracy.csv`: Contains details about each dataset in the collection and summary results of the experiments.
+- `figures/datasets_table.csv`: Contains details about each dataset in the collection and summary results of the experiments.
 - `big_perf_df_balancedaccuracy.csv`: Contains more detailed results of the experiments.
