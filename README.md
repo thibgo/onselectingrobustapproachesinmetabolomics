@@ -18,4 +18,4 @@
 - `figures/datasets_table.csv`: Contains details about each dataset in the collection and summary results of the experiments.
 - `big_perf_df_balancedaccuracy.csv`: Contains more detailed results of the experiments.
 
-![Work overview diagram](https://github.com/thibgo/onselectingrobustapproachesinmetabolomics/blob/main/figures/figure_work_overview.pdf)
+![Work overview diagram](https://github.com/thibgo/onselectingrobustapproachesinmetabolomics/blob/main/figures/figure_work_overview.png)
