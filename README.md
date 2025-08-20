@@ -18,4 +18,8 @@
 - `figures/datasets_table.csv`: Contains details about each dataset in the collection and summary results of the experiments.
 - `big_perf_df_balancedaccuracy.csv`: Contains more detailed results of the experiments.
 
+## Data
+
+The data used for this work is hosted here : [https://zenodo.org/records/16911403]. The file `mtbls-835-datasets.tar.xz` (203 Mo) contains the datasets.
+
 ![Work overview diagram](https://github.com/thibgo/onselectingrobustapproachesinmetabolomics/blob/main/figures/figure_work_overview.png)
