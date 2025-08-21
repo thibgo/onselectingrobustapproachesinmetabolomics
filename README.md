@@ -20,6 +20,9 @@
 
 ## Data
 
-The data used for this work is hosted here : [https://zenodo.org/records/16911403]. The file `mtbls-835-datasets.tar.xz` (203 Mo) contains the datasets.
+The file `mtbls-835-datasets.tar.xz` (203 Mo) contains the datasets. It is hosted in 2 repositories (duplicates to ensure its availability in the future) :
+- [https://zenodo.org/records/16911403]
+- [https://doi.org/10.6084/m9.figshare.29959079.v1]
+
 
 ![Work overview diagram](https://github.com/thibgo/onselectingrobustapproachesinmetabolomics/blob/main/figures/figure_work_overview.png)
